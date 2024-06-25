@@ -1,6 +1,6 @@
 {
   "ignition": {
-    "version": "3.4.0"
+    "version": "2.18.0"
   },
   "kernelArguments": {
     "shouldExist": [
