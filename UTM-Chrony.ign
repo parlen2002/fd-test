@@ -44,9 +44,9 @@
           "wheel",
           "sudo"
         ],
-        "name": "tomster",
+        "name": "nobproudfoot",
         "sshAuthorizedKeys": [
-          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINkTKkJS7Id1WCyA5Klu/moLG9mP5hTC+v2qYqypMF1u contact@tommytran.io"
+          "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIK3h77YiW9yEFaAYfTt69Vo/f7wUcJMt2gX3xvzoUvaK nobproudfoot_DJango"
         ]
       }
     ]
