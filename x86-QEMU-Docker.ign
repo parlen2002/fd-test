@@ -1,9 +1,8 @@
 {
   "ignition": {
-    "config": {},
-    "timeouts": {},
-    "version": "2.18.0",
+    "version": "2.18.0"
   },
+
   "kernelArguments": {
     "shouldExist": [
       "mitigations=auto,nosmt",
@@ -41,6 +40,7 @@
       "console=ttyS0,115200"
     ]
   },
+
   "passwd": {
     "users": [
       {
@@ -58,6 +58,7 @@
       }
     ]
   },
+
   "storage": {
     "files": [
       {
@@ -218,6 +219,7 @@
       }
     ]
   },
+
   "systemd": {
     "units": [
       {
